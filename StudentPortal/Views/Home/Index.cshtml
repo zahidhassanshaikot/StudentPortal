@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@*<div class="jumbotron">*@
+
+    <div class="container">
+        <br>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="@Url.Content("~/Content/Images/IMG_2421.JPG")" alt="Chania" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="@Url.Content("~/Content/Images/IMG_2593.JPG")" alt="Chania" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="@Url.Content("~/Content/Images/IMG_2597.JPG")" alt="Flower" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="@Url.Content("~/Content/Images/IMG_3205.JPG")" alt="Flower" width="460" height="345">
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+
+    @*<img src="@Url.Content("~/Content/12-1.jpg")" alt="image" class="img-responsive" />*@
+@*</div>*@
+
+<div class="row">
+    <div class="col-md-4 ">
+        <h3>Notice Board</h3>
+        <div class="up-menu">
+            <div class='marquee-with-options'>
+
+                <p><a href="https://daffodilvarsity.edu.bd/noticeboard/notice_detail/501" target="_blank"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;Notice on Project Showcasing of MCT Department:&nbsp; &nbsp;Participation Mandatory</a>&nbsp;<strong>(MCT)</strong></p>
+
+                <p><a href="https://daffodilvarsity.edu.bd/noticeboard/notice_detail/500" target="_blank"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;schedule of Evening Pre-Defense for Batch 23.</a>&nbsp;<strong>(CSE)</strong></p>
+
+                <p><a href="https://daffodilvarsity.edu.bd/noticeboard/notice_detail/499" target="_blank"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;Notice for Thesis Writing Workshop</a>&nbsp;<strong>(SWE)</strong></p>
+
+                <p><a href="https://daffodilvarsity.edu.bd/noticeboard/notice_detail/498" target="_blank"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;Final Exam Schedule (Day+ Evening) of Spring'17</a>&nbsp;<strong>(TE)</strong></p>
+            </div>
+            <div class="hnot"><!--<a href="http://notice.daffodilvarsity.edu.bd/" target="_blank">View All</a>--><a class="btn btn-default" href="https://daffodilvarsity.edu.bd/noticeboard" target="_blank">View All</a></div>
+        </div>
+    </div>
+    <div class="col-md-4 ">
+        <div class="up-menu1">
+            <h3>Management</h3>
+
+            <div id='cssmenu' class="mid-menu">
+
+                <ul>
+                    <li>
+                        <a href='#'><span> Messages </span></a>
+                        <ul>
+                            <li><a href='https://daffodilvarsity.edu.bd/page/show_page_detail/chairman-message'><span> Chairman's Message</span></a></li>
+                            <li><a href='https://daffodilvarsity.edu.bd/page/show_page_detail/vc-message'><span> VC's Message</span></a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href='#'><span> Emeritus Professor &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://daffodilvarsity.edu.bd/images/plus.png" alt="plus"></span></a>
+                        <ul>
+                            <li><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/aminul-islam"><span> Dr. Aminul Islam</span></a></li>
+                            <li><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/dr-m-lutfar-rahman"><span> Dr. M. Lutfar Rahman</span></a></li>
+                        </ul>
+                    </li>
+                    <li><a href='https://daffodilvarsity.edu.bd/page/show_page_detail/deans-heads'><span> Deans & Heads</span></a></li>
+                    <li><a href='https://daffodilvarsity.edu.bd/page/admin_page_detail/top-management'><span> Administration</span></a></li>
+                    <li><a href='https://daffodilvarsity.edu.bd/page/committee_page_detail/board-of-trustees'><span> Committees</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 ">
+        <div class="up-menu1">
+            <h3> Students Info</h3>
+            <div id='cssmenu' class="mid-menu">
+                <ul>
+                    <li><a href='http://faculty.daffodilvarsity.edu.bd/' target="_blank"><span> Faculty Members</span></a></li>
+                    <li><a href='https://daffodilvarsity.edu.bd/page/show_page_detail/visiting-professors'><span> Visiting Professors </span></a></li>
+                    <li><a href='https://daffodilvarsity.edu.bd/page/show_page_detail/coordination-offices'><span> Coordination Offices</span></a></li>
+                    <li><a href='https://daffodilvarsity.edu.bd/noticeboard' target="_blank"><span> Notice Board</span></a></li>
+                    <li><a href='http://studentportal.diu.edu.bd/login' target="_blank"><span> Student Portal</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

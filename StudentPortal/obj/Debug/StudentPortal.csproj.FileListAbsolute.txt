@@ -1,0 +1,112 @@
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\StudentPortal.dll.config
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\StudentPortal.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\StudentPortal.pdb
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Antlr3.Runtime.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\EntityFramework.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\EntityFramework.SqlServer.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Google.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.Infrastructure.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Owin.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Optimization.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\WebGrease.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Optimization.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Antlr3.Runtime.pdb
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\EntityFramework.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\EntityFramework.SqlServer.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Google.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.dll
+c:\users\diu\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csprojResolveAssemblyReference.cache
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal\StudentPortal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\obj\Debug\StudentPortal.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\obj\Debug\StudentPortal.pdb
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\StudentPortal.dll.config
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\StudentPortal.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\StudentPortal.pdb
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Antlr3.Runtime.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\EntityFramework.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Newtonsoft.Json.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Owin.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Helpers.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Mvc.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Optimization.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Razor.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\WebGrease.dll
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\EntityFramework.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Helpers.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Mvc.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Razor.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\System.Web.Optimization.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Newtonsoft.Json.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Antlr3.Runtime.pdb
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DIU\Documents\Visual Studio 2013\Projects\StudentPortal - Copy\StudentPortal\obj\Debug\StudentPortal.csprojResolveAssemblyReference.cache
